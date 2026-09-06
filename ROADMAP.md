@@ -1,3 +1,5 @@
+> Historical initial outline. The expanded 10-wave, 36-task plan is being reviewed on [Tanduna](https://tanduna.com/projects/lore-commons/roadmap). These original task identities are retained for history; they are not a claim of approved or completed work.
+
 # Lore Commons roadmap
 
 This is a proposed plan for a project starting from zero. Every item below is unimplemented. The order expresses dependencies, not dates or delivery promises. No token or developer-time estimates are configured.

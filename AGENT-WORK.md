@@ -4,8 +4,11 @@ This repository welcomes coding-agent assistance within human-reviewed GitHub wo
 
 ## Minimum task brief
 
-A maintainer-approved GitHub issue should provide:
+A maintainer-approved Tanduna task revision, linked from its GitHub issue or PR, must provide:
 
+- **Repository and base:** the connected repository, exact current base commit or resolved branch, and accepted prerequisite work.
+- **Models:** preferred model and effort, explicitly allowed fallback, and the actual execution evidence required.
+- **Skills:** publicly downloadable, commit-pinned skill files selected by the maintainer.
 - **Objective:** the observable result to produce.
 - **Scope:** files or modules the task may change once they exist.
 - **Dependencies:** earlier roadmap tasks or decisions that must already be complete.

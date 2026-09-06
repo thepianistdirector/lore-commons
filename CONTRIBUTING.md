@@ -1,10 +1,10 @@
 # Contributing to Lore Commons
 
-Lore Commons is at the planning stage. Contributions are welcome, but the first useful work is to turn a roadmap item into a small, reviewable GitHub issue. Do not infer a technology stack, command, file path, or completed feature from the plan.
+Lore Commons is at the planning stage. Contributions are welcome, but the first useful work is to turn the expanded Tanduna plan into approved, bounded task revisions and linked GitHub issues. Do not infer a technology stack, command, file path, or completed feature from the plan.
 
 ## Contribution flow
 
-1. Read [ROADMAP.md](ROADMAP.md) and check the task dependencies.
+1. Read the [current Tanduna plan](https://tanduna.com/projects/lore-commons/roadmap), check task approval and dependencies, and read the [required contribution skill](skills/lore-commons-contribution/SKILL.md). [ROADMAP.md](ROADMAP.md) preserves the historical outline.
 2. Open or join a GitHub issue. State the problem, proposed scope, acceptance criteria, and any unresolved product decision.
 3. Wait for a maintainer to confirm the implementation approach and validation before writing a substantial change.
 4. Create a focused branch and keep unrelated work out of the pull request.
